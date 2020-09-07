@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\bin\Debug\Kişisel_Bilgi_Form.exe.config
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\bin\Debug\Kişisel_Bilgi_Form.exe
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\bin\Debug\Kişisel_Bilgi_Form.pdb
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.Form1.resources
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.exe
+C:\Users\Administrator\source\repos\Kişisel_Bilgi_Form\Kişisel_Bilgi_Form\obj\Debug\Kişisel_Bilgi_Form.pdb
